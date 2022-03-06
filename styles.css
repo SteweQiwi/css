@@ -89,6 +89,7 @@ a:visited {
         padding: 15px 20px;
         margin-bottom: 20px;
         border-radius: 20px;
+        box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
     }
 .card h2 {
     margin-bottom: 10px;
